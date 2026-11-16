@@ -26,205 +26,303 @@ Here are some ideas to get you started:
 ========================================================== -->
 
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=RAJYAGURU%20JAIMIN%20A.&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=CODE%20%E2%80%A2%20DESIGN%20%E2%80%A2%20BUILD%20%E2%80%A2%20INNOVATE&descAlignY=58&descSize=16" width="100%" alt="Rajyaguru Jaimin profile banner"/><a href="https://github.com/jar-ce">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Computer+Engineering+Student;Java+%7C+Software+Development;Robotics+%7C+Embedded+Systems+%7C+IoT;Turning+ideas+into+working+technology" alt="Typing introduction"/>
-</a><p>
-  <a href="https://github.com/jar-ce"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="YOUR_YOUTUBE_URL"><img src="https://img.shields.io/badge/YouTube-DC2626?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="mailto:6353475670jar@gmail.com"><img src="https://img.shields.io/badge/Email-64748B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p><img src="https://komarev.com/ghpvc/?username=jar-ce&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/></div>01 — About Me
-name: Rajyaguru Jaimin A.
-location: Bhavnagar, Gujarat, India
-education: Diploma in Computer Engineering
-institution: Gyanmanjari Innovative University (GMIU)
-focus:
-  - Software Development
-  - Robotics & Embedded Systems
-  - Internet of Things
-  - Automation
-  - UI/UX & Product Thinking
-I am a Computer Engineering student who enjoys building practical solutions at the intersection of software, electronics, and design. I work with Java and C, experiment with microcontrollers and IoT, and enjoy taking an idea from an initial concept to a working prototype.
+<!-- ===================== HEADER BANNER ===================== -->
+<div align="center">
 
-My approach is simple: understand the problem, design thoughtfully, build, test, and keep improving.
-- Build: software applications, embedded projects, and connected systems.
-- Explore: AI, automation, robotics, and modern development tools.
-- Contribute: collaborative projects, technical events, and practical problem-solving.
-“Think. Code. Design. Build. Repeat.”
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,50:2979FF,100:00E5FF&height=250&section=header&text=Rajyaguru%20Jaimin%20A.&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Building%20software%20%C2%B7%20robots%20%C2%B7%20embedded%20systems&descSize=17&descAlignY=60&descColor=E0F7FF" alt="Rajyaguru Jaimin A. banner" width="100%"/>
 
-02 — Technology Stack
-<div align="center">Programming & Web
+<a href="https://github.com/jar-ce">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=720&height=50&lines=Computer+Engineering+Student;Java+Developer;Robotics+%26+IoT+Enthusiast;Embedded+Systems+Developer;Graphic+Designer" alt="Typing animation of roles" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Bhavnagar,_Gujarat,_India-0A1128?style=for-the-badge&logo=googlemaps&logoColor=00E5FF" alt="Location"/>
+<img src="https://img.shields.io/badge/Diploma_in_Computer_Engineering-0A1128?style=for-the-badge&logo=academia&logoColor=2979FF" alt="Education"/>
+<img src="https://img.shields.io/badge/GMIU-0A1128?style=for-the-badge&logo=bookstack&logoColor=00E5FF" alt="GMIU"/>
+
+<br/><br/>
+
+<a href="https://github.com/jar-ce"><img src="https://img.shields.io/badge/GitHub-jar--ce-0A1128?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:6353475670jar@gmail.com"><img src="https://img.shields.io/badge/Email-6353475670jar@gmail.com-2979FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Add_your_link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn (placeholder)"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Add_your_link-00B8D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio (placeholder)"/></a>
+<a href="#"><img src="https://img.shields.io/badge/YouTube-Add_your_link-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube (placeholder)"/></a>
+
+</div>
+
+<br/>
+
+<!-- ===================== ABOUT ===================== -->
+## 👋 About Me
+
+I'm a **Diploma Computer Engineering student at Gyanmanjari Innovative University (GMIU)** who enjoys building things that work in the real world: Java applications, finance tools, and hardware projects that move, sense and respond.
+
+My work sits between **software and electronics**: from desktop and database-driven apps to humanoid robotics, IoT and embedded systems. I'm currently deepening my skills in **Advanced Java, Data Structures & Algorithms, and System Design**.
+
+```java
+public class JaiminRajyaguru {
+    String role     = "Computer Engineering Student & Developer";
+    String base     = "Bhavnagar, Gujarat, India";
+    String[] focus  = {"Java", "Robotics & IoT", "Embedded Systems", "Full-Stack"};
+    String mindset  = "Learn by building. Ship. Improve.";
+}
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1128,100:00E5FF&height=2&section=header" width="100%" alt="divider"/>
+
+<!-- ===================== SKILLS ===================== -->
+## 🛠️ Tech Stack
+
+**Programming Languages**
+
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js&theme=dark" alt="Programming languages"/>
-Development Tools & Databases
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,mysql,postgres,sqlite&theme=dark" alt="Developer tools and databases"/>
-Embedded, Robotics & IoT
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP8266-333333?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/NodeMCU-2C3E50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IoT-0F766E?style=for-the-badge"/>
-Design, Analytics & AI Tools
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/CorelDRAW-008000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge"/></div><details>
-<summary><b>Hardware & electronics I have worked with</b></summary>- Arduino UNO and Arduino Mega
-- ESP32, ESP8266 and NodeMCU
-- PCA9685 servo driver and MG996R servo motors
-- Ultrasonic, IR, PIR, flame and DHT11 sensors
-- HC-05 Bluetooth module, relays and motor drivers
-- LoRa RA-02 / SX1278 (433 MHz)
-- Sensor integration, actuator control and embedded automation
-</details>03 — Selected Projects
-A selection of prototypes, applications, and concepts. Project status is stated transparently.
+
+**Development Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=dark" alt="Development tools"/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="Databases"/>
+
+**Robotics & Embedded Systems**
+
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino"/>
+<br/>
+<img src="https://img.shields.io/badge/Arduino_UNO-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino_Mega-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/NodeMCU-0A1128?style=flat-square&logo=espressif&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/PCA9685-0A1128?style=flat-square&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/MG996R_Servos-0A1128?style=flat-square&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/HC--05_Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white"/>
+<img src="https://img.shields.io/badge/DHT11-0A1128?style=flat-square&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/PIR_Sensor-0A1128?style=flat-square&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/IR_Sensors-0A1128?style=flat-square&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Ultrasonic_Sensors-0A1128?style=flat-square&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/LoRa_SX1278-2979FF?style=flat-square&logoColor=white"/>
+
+**Design**
+
+<img src="https://skillicons.dev/icons?i=ps,figma&theme=dark" alt="Design tools"/>
+<br/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/CorelDRAW-0A1128?style=flat-square&logo=coreldraw&logoColor=00E5FF"/>
+
+**Analytics & AI Tools**
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logoColor=white"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1128,100:00E5FF&height=2&section=header" width="100%" alt="divider"/>
+
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 Featured Projects
+
+> **Status key:** ✅ Implemented · 🔧 In development · 💡 Concept
 
 <table>
-<tr>
-<td width="50%" valign="top">🤖 MANTRA 2.0
-Humanoid Robot Prototype
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 MANTRA 2.0 – Humanoid Robot</h3>
+      <img src="https://img.shields.io/badge/Status-Implemented-00C853?style=flat-square"/><br/>
+      <sub>A humanoid robot with movement, greeting and interaction behaviours.</sub>
+      <ul>
+        <li>ESP32 controller with PCA9685 servo driver</li>
+        <li>16 × MG996R servos</li>
+        <li>3D-printed frame</li>
+      </ul>
+      <img src="https://img.shields.io/badge/ESP32-0A1128?style=flat-square&logo=espressif&logoColor=00E5FF"/>
+      <img src="https://img.shields.io/badge/PCA9685-0A1128?style=flat-square"/>
+      <img src="https://img.shields.io/badge/3D_Printing-0A1128?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔥 Disaster Management Automation System</h3>
+      <img src="https://img.shields.io/badge/Status-Implemented-00C853?style=flat-square"/><br/>
+      <sub>Fire detection with an automated response mechanism.</sub>
+      <ul>
+        <li>Arduino Mega + NodeMCU</li>
+        <li>Flame sensor triggers water pump</li>
+        <li>Servo-directed response</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Arduino_Mega-0A1128?style=flat-square&logo=arduino&logoColor=00E5FF"/>
+      <img src="https://img.shields.io/badge/NodeMCU-0A1128?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌦️ Smart Weather Station</h3>
+      <img src="https://img.shields.io/badge/Status-Implemented-00C853?style=flat-square"/><br/>
+      <sub>Temperature and humidity monitoring over Bluetooth.</sub>
+      <ul>
+        <li>Arduino UNO</li>
+        <li>DHT11 sensor</li>
+        <li>HC-05 Bluetooth module</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Arduino_UNO-0A1128?style=flat-square&logo=arduino&logoColor=00E5FF"/>
+      <img src="https://img.shields.io/badge/DHT11-0A1128?style=flat-square"/>
+      <img src="https://img.shields.io/badge/HC--05-0A1128?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏠 Smart Home Automation</h3>
+      <img src="https://img.shields.io/badge/Status-Implemented-00C853?style=flat-square"/><br/>
+      <sub>IoT-based home monitoring and automation.</sub>
+      <ul>
+        <li>ESP8266 microcontroller</li>
+        <li>DHT11 climate sensing</li>
+        <li>PIR motion detection and LCD display</li>
+      </ul>
+      <img src="https://img.shields.io/badge/ESP8266-0A1128?style=flat-square&logo=espressif&logoColor=00E5FF"/>
+      <img src="https://img.shields.io/badge/PIR-0A1128?style=flat-square"/>
+      <img src="https://img.shields.io/badge/LCD-0A1128?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💰 Finance Management System</h3>
+      <img src="https://img.shields.io/badge/Status-Implemented-00C853?style=flat-square"/><br/>
+      <sub>Desktop application for personal finance tracking and reporting.</sub>
+      <ul>
+        <li>Bank statement importing</li>
+        <li>Transaction classification</li>
+        <li>IPO and stock management</li>
+        <li>Report generation</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-0A1128?style=flat-square&logo=python&logoColor=00E5FF"/>
+      <img src="https://img.shields.io/badge/PySide6-0A1128?style=flat-square&logo=qt&logoColor=00E5FF"/>
+      <img src="https://img.shields.io/badge/SQLite-0A1128?style=flat-square&logo=sqlite&logoColor=00E5FF"/>
+      <img src="https://img.shields.io/badge/OpenPyXL-0A1128?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 APEX OS – Finance Command Center</h3>
+      <img src="https://img.shields.io/badge/Status-In_Development-FFB300?style=flat-square"/><br/>
+      <sub>A unified finance platform built on a monorepo architecture.</sub>
+      <ul>
+        <li>Digital Khata and IPO Center</li>
+        <li>Stock Tracker and Analytics</li>
+        <li>PostgreSQL with Drizzle ORM and PGlite</li>
+      </ul>
+      <img src="https://img.shields.io/badge/PostgreSQL-0A1128?style=flat-square&logo=postgresql&logoColor=00E5FF"/>
+      <img src="https://img.shields.io/badge/Drizzle_ORM-0A1128?style=flat-square&logo=drizzle&logoColor=00E5FF"/>
+      <img src="https://img.shields.io/badge/Monorepo-0A1128?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍔 Campus Cravings</h3>
+      <img src="https://img.shields.io/badge/Status-Concept-2979FF?style=flat-square"/><br/>
+      <sub>A campus food ordering application concept for students.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📁 More Coming Soon</h3>
+      <img src="https://img.shields.io/badge/Status-Ongoing-607D8B?style=flat-square"/><br/>
+      <sub>Source code and write-ups will be added as repositories are published. Follow <a href="https://github.com/jar-ce">@jar-ce</a>.</sub>
+    </td>
+  </tr>
+</table>
 
-A humanoid robotics project focused on servo-driven movement and basic interaction.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1128,100:00E5FF&height=2&section=header" width="100%" alt="divider"/>
 
-Built with: ESP32 · PCA9685 · 16 × MG996R servos · 3D-printed frame
-- Multi-servo movement control
-- Basic greeting and interaction functions
-- Embedded hardware integration
-</td>
-<td width="50%" valign="top">🚨 Disaster Management System
-Fire Detection & Response Prototype
+<!-- ===================== EXPERIENCE ===================== -->
+## 💼 Internship
 
-An automated safety prototype designed to detect fire and trigger a response mechanism.
+<table>
+  <tr>
+    <td>
+      <h3>☕ Java Developer Intern · Codex Infotech</h3>
+      <sub><b>June 2026</b> · 15-day internship</sub>
+      <ul>
+        <li>Core Java, Object-Oriented Programming</li>
+        <li>Collections Framework, Exception Handling, File Handling</li>
+        <li>Built an <b>Employee Task Tracker / Project Management System</b></li>
+      </ul>
+      <img src="https://img.shields.io/badge/Certificate-Java_Development_Internship,_2026-2979FF?style=flat-square&logo=openjdk&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-Built with: Arduino Mega · NodeMCU · Flame sensor · Servo · Water pump
-- Sensor-based fire detection
-- Automated response mechanism
-- Microcontroller-based control
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">🌦️ Smart Weather Station
-Environmental Monitoring
+<!-- ===================== ACHIEVEMENTS ===================== -->
+## 🏆 Achievements
 
-A sensor-based system for monitoring temperature and humidity.
+| | Recognition |
+|---|---|
+| 🥇 | **Government of India INSPIRE Award** (2024–25) |
+| 🤖 | **Technoxian Robotics World Cup** participant (2024 and 2025) |
+| 🎯 | **Techmanjari 2K26** participant |
+| 🎓 | **College topper** recognition |
+| 🧪 | Technology exhibition featuring **150+ student projects** |
+| 🏫 | **Maitri Enterprise** operations supporting **250+ schools** |
 
-Built with: Arduino UNO · DHT11 · HC-05
-- Temperature and humidity sensing
-- Bluetooth data communication
-</td>
-<td width="50%" valign="top">🏠 Smart Home Automation
-IoT Prototype
+<!-- ===================== EDUCATION ===================== -->
+## 🎓 Education
 
-A connected home automation prototype using environmental and motion sensors.
+| Period | Qualification | Institution |
+|---|---|---|
+| 2025 – Present | **Diploma in Computer Engineering** | Gyanmanjari Innovative University (GMIU) |
+| 2024 – 2025 | **Secondary Education (Class 10)** | — |
 
-Built with: ESP8266 · DHT11 · PIR · LCD
-- Sensor-based automation
-- Environmental monitoring
-- Device integration
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">💳 Finance Management System
-Desktop Application — In Development
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1128,100:00E5FF&height=2&section=header" width="100%" alt="divider"/>
 
-A desktop application for organizing personal financial records and transactions.
+<!-- ===================== LEARNING ===================== -->
+## 📚 Currently Learning
 
-Built with: Python · PySide6 · SQLite · OpenPyXL · PDF processing
-- Bank statement importing
-- Transaction classification and duplicate protection
-- IPO, stock, accounts and reporting modules
-</td>
-<td width="50%" valign="top">📈 APEX OS — Finance Command Center
-Architecture & Product Development
+<div align="center">
 
-A modular finance command center designed around structured financial workflows.
+<img src="https://img.shields.io/badge/Advanced_Java-0A1128?style=for-the-badge&logo=openjdk&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0A1128?style=for-the-badge&logoColor=2979FF"/>
+<img src="https://img.shields.io/badge/Software_Engineering-0A1128?style=for-the-badge&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Full--Stack_Development-0A1128?style=for-the-badge&logoColor=2979FF"/>
+<br/>
+<img src="https://img.shields.io/badge/System_Design-0A1128?style=for-the-badge&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-0A1128?style=for-the-badge&logoColor=2979FF"/>
+<img src="https://img.shields.io/badge/Robotics_%26_IoT-0A1128?style=for-the-badge&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Embedded_Systems-0A1128?style=for-the-badge&logoColor=2979FF"/>
 
-Technology direction: PostgreSQL · Drizzle ORM · PGlite · Monorepo
-- Digital Khata
-- IPO Center and Stock Tracker
-- Reports and analytics
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">🍽️ Campus Cravings
-Product Concept
+</div>
 
-A proposed campus food-ordering experience.
-- Food discovery and digital ordering
-- Student-focused interface
-- Campus food management concept
-</td>
-<td width="50%" valign="top">🧩 More Experiments
-Learning Through Building
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1128,100:00E5FF&height=2&section=header" width="100%" alt="divider"/>
 
-I continue to explore software, automation, IoT communication, and product ideas through small experiments and prototypes.
-</td>
-</tr>
-</table>04 — Experience
-Java Developer Intern · Codex Infotech
-June 2026 · 15-day internship
+<!-- ===================== GITHUB STATS ===================== -->
+## 📈 GitHub Statistics
 
-Completed practical Java development training and worked on an Employee Task Tracker / Project Management System.
+<div align="center">
 
-Areas covered
-- Core Java and object-oriented programming
-- Collections Framework
-- Exception handling
-- File handling and I/O
-- Debugging and problem-solving
-05 — Achievements & Recognition
-<div align="center"><img src="https://img.shields.io/badge/INSPIRE_Award-Government_of_India-2563EB?style=for-the-badge&logo=award&logoColor=white"/>
-<img src="https://img.shields.io/badge/Technoxian-2024_%26_2025-0F766E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Techmanjari-2K26-7C3AED?style=for-the-badge"/></div>- INSPIRE Award (2024–25): Recognized by the Government of India for an innovative school-level technology project.
-- Technoxian Robotics World Cup (2024 & 2025): Participant in robotics competitions focused on design, automation, and problem-solving.
-- Techmanjari 2K26: Participant in a technology exhibition featuring 150+ student projects.
-- Academic achievement: College topper recognition.
-Impact & Initiative
-- Contributed to family-business operations serving 250+ schools in the Bhavnagar district through Maitri Enterprise.
-- Participated in a technology exhibition featuring 150+ projects.
-- Supported student robotics projects and collaborative technical activities.
-06 — Education & Certification
-Diploma in Computer Engineering
-Gyanmanjari Innovative University (GMIU), Bhavnagar, Gujarat
-2025 – Present
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jar-ce&show_icons=true&hide_border=false&bg_color=0A1128&title_color=00E5FF&icon_color=2979FF&text_color=C9D1D9&border_color=1E3A8A&count_private=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jar-ce&layout=compact&bg_color=0A1128&title_color=00E5FF&text_color=C9D1D9&border_color=1E3A8A&langs_count=8" alt="Top languages"/>
 
-Secondary Education — Class 10
-2024–2025
+<br/>
 
-Certification
-- Java Development Internship Certificate — Codex Infotech (2026)
-07 — Current Learning Focus
-Area	What I'm developing
-Java & Software Engineering	OOP, clean code, application development
-Computer Science	Data structures and algorithms
-Databases	SQL, relational design, data management
-System Design	Modular architecture and scalable applications
-AI	AI-assisted development and practical AI applications
-Robotics & IoT	Embedded systems, communication, automation
-Product Design	UI/UX, usability, and product thinking
+<img src="https://streak-stats.demolab.com?user=jar-ce&background=0A1128&ring=00E5FF&fire=2979FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=1E3A8A&border=1E3A8A" alt="GitHub streak"/>
 
+<br/>
 
-08 — GitHub Analytics
-<div align="center"><a href="https://github.com/jar-ce">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=jar-ce&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/jar-ce">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jar-ce&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-</a><img width="90%" src="https://streak-stats.demolab.com?user=jar-ce&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/><img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jar-ce&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution graph"/></div>09 — Beyond the Code
-Alongside technology, I enjoy graphic design, robotics, learning new tools, and exploring how businesses use technology to solve practical problems. I value thoughtful execution, teamwork, and letting the quality of the work speak for itself.
-10 — Connect With Me
-<div align="center"><a href="https://github.com/jar-ce"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="YOUR_YOUTUBE_URL"><img src="https://img.shields.io/badge/YouTube-Channel-DC2626?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="mailto:6353475670jar@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-64748B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jar-ce&bg_color=0A1128&color=00E5FF&line=2979FF&point=FFFFFF&area=true&area_color=2979FF&hide_border=true&title_color=00E5FF" alt="Contribution activity graph" width="100%"/>
 
+</div>
 
+> 💡 Stats appear as you commit publicly. Enable *Settings → Profile → "Include private contributions"* to reflect private work on your contribution graph.
 
-Open to learning, collaboration, internships, and meaningful engineering opportunities.
+<!-- ===================== CONTACT ===================== -->
+## 🤝 Let's Connect
 
-Learning today. Building tomorrow. Creating impact.
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=110&section=footer" width="100%" alt="Footer banner"/></div>
+I'm open to learning opportunities, internships, collaborations and conversations about **Java, robotics and embedded systems**.
+
+<div align="center">
+
+<a href="mailto:6353475670jar@gmail.com"><img src="https://img.shields.io/badge/Email_Me-2979FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/jar-ce"><img src="https://img.shields.io/badge/Follow_on_GitHub-0A1128?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<i>"Learn by building. Ship. Improve."</i>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:2979FF,100:0A1128&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&fontAlignY=65" alt="Footer banner" width="100%"/>
+
+</div>
